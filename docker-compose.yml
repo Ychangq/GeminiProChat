@@ -10,7 +10,7 @@ services:
     environment:
       - GEMINI_API_KEY=YOUR_GEMINI_API_KEY
       # - HTTPS_PROXY=YOUR_HTTPS_PROXY
-      # - API_BASE_URL=YOUR_GEMINI_API_BASE_URL
+      - API_BASE_URL=https://65b11b2f6638ca09ef4e2784--elaborate-druid-a39b25.netlify.app/
       # - HEAD_SCRIPTS=YOUR_HEAD_SCRIPTS
       # - PUBLIC_SECRET_KEY=YOUR_SECRET_KEY
       # - SITE_PASSWORD=YOUR_SITE_PASSWORD
